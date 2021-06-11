@@ -1,0 +1,11 @@
+{
+    "name": "root/shimin",
+    "description": "A Interface",
+    "license": "MIT",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Zyzhyh\\Shimin\\": "src/"
+        }
+    }
+}
