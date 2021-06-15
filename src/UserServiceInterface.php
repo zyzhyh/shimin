@@ -11,4 +11,6 @@ interface UserServiceInterface
     public function info(int $user_id):array;
 
     public function infoById(int $id):array;
+
+    public function a():array;
 }
